@@ -6,6 +6,11 @@
   float: left;
   width: 25%;
   background-color: #E6E6FA;
-  height: 100vh;
+  padding: 35px;
+  margin-right: 35px;
+  min-height: 100%;
+}
 
+.chat-room {
+  padding: 35px;
 }
